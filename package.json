@@ -1,6 +1,5 @@
 {
   "name": "receipes",
-  "version": "1",
   "description": "",
   "main": "App.tsx",
   "scripts": {
