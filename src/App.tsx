@@ -10,7 +10,7 @@ const queryClient = new QueryClient();
 const App: React.FC = () => {
     return (
         <QueryClientProvider client={queryClient}>
-            <Router basename="/receipes">
+            <Router>
                 <div>
                     <h1>Рецепты</h1>
                     <Routes>
